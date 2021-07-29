@@ -1,0 +1,19 @@
+.nav-item{
+    background-color: blue;
+    border: 2px solid grey;
+    padding:10 15 10 15px;
+    font-size:18px;
+}
+.navbar{
+    top:0;
+    width:100%;
+    padding:0px;
+    display: inline-block;
+}
+.loremwords{
+    padding-top:100px;
+    background-color:lightblue;
+}
+body{
+    overflow-x:hidden;
+}

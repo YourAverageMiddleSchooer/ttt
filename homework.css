@@ -1,0 +1,42 @@
+.jumbotron{
+    background-image: url("homework.jpg");
+    background-size: 100%;
+}
+.navbar .nav-link{
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+
+}
+
+.navbar .nav-item.active{
+    border-left: #444 3px solid;
+}
+#header{
+    color:white;
+    text-align:center;
+    font-size: 30px;
+    padding:10px;
+    border: 1px solid black;
+    margin-bottom: 0px;
+}
+li p {
+    border: 1px solid black;
+}
+.col-sm-4{
+    max-width:400px;
+}
+.fa-check{
+    border: solid 1px black;
+    width:280px;
+    padding: 3px;
+    font-size:20px;
+    margin-left:15px;
+    margin-bottom: -7px;
+    text-align:center;
+}
+.btn{
+    margin-left:15px;
+}
+    
